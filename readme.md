@@ -18,3 +18,7 @@ Its build with;
 ## Vue
 
 ./vue-calc
+
+## Svelte
+
+./svelte-calc
