@@ -22,3 +22,12 @@ Its build with;
 ## Svelte
 
 ./svelte-calc
+
+## Qwik
+
+./qwik-calc
+
+## coming soon
+
+- React
+- jQuery
