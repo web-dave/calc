@@ -4,6 +4,7 @@ export const result = (displayValue: string) => {
   // replace × with * and ÷ with / for eval()
   input = input.replace(/x/g, "*").replace(/÷/g, "/");
   // remove anything else that is not allowed here
+  // eslint-disable-next-line no-useless-escape
   input = input.replace(/[^0-9. +\-*\/]/g, "");
   try {
     // eslint-disable-next-line no-eval
