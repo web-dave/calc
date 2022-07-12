@@ -27,7 +27,11 @@ Its build with;
 
 ./qwik-calc
 
+## React
+
+./react-calc
+
 ## coming soon
 
-- React
 - jQuery
+- Webcomponents
