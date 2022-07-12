@@ -5,7 +5,7 @@ import { Btn } from "./Button";
 import { Display } from "./Display";
 import { input, operator, clear, result } from "./calc";
 
-export const App: React.FC<{}> = () => {
+const App: React.FC<{}> = () => {
   const [out, setOut] = useState<string>("");
   return (
     <>
@@ -37,3 +37,4 @@ export const App: React.FC<{}> = () => {
     </>
   );
 };
+export default App;
