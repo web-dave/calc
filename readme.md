@@ -31,7 +31,10 @@ Its build with;
 
 ./react-calc
 
+## Webcomponents
+
+./ce-calc
+
 ## coming soon
 
 - jQuery
-- Webcomponents
