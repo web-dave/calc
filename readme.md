@@ -9,32 +9,45 @@ Its build with;
 
 ## Vanilla JS
 
-./js-calc
+`./js-calc`
 
 ## Angular
 
-./ng-calc
+`./ng-calc`
 
 ## Vue
 
-./vue-calc
+`./vue-calc`
 
 ## Svelte
 
-./svelte-calc
+`./svelte-calc`
 
 ## Qwik
 
-./qwik-calc
+`./qwik-calc`
 
 ## React
 
-./react-calc
+`./react-calc`
 
 ## Webcomponents
 
-./ce-calc
+`./ce-calc`
 
 ## jQuery
 
-./jquery-calc
+`./jquery-calc`
+
+# stats
+
+| version        | serve  | build  |
+| -------------- | ------ | ------ |
+| vanillaJS      | 4.2kB  | -      |
+| customElements | 5.4kB  | -      |
+| jquery         | 93.6kB | -      |
+| Angular        | 2.4MB  | 152kB  |
+| Vue            | 2.2MB  | 85.8kB |
+| React          | 1.7MB  | 155kB  |
+| Svelte         | -      | -      |
+| Qwik           | 198kB  | -      |
