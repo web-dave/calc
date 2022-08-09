@@ -35,6 +35,6 @@ Its build with;
 
 ./ce-calc
 
-## coming soon
+## jQuery
 
-- jQuery
+./jquery-calc
